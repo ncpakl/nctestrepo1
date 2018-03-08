@@ -3,6 +3,6 @@ package com.console;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Some test code!");
+        System.out.println("Some test code! Change to the message!");
     }
 }
