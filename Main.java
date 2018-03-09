@@ -9,5 +9,6 @@ public class Main {
 
     public static void runStatic() {
         System.out.println("Feature #2!");
+        System.out.println("Hotfix to Feature #2!");
     }
 }
